@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rarvs55u2-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/rarvs55u2-java-springboot
